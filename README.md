@@ -10,5 +10,6 @@ Fuente: https://concepto.de/glosario/#ixzz8MaCalohz
 Fuente: https://concepto.de/glosario/#ixzz8MaCmsatm
 
 # We will need a table to store the word and definition.
+while creating the scalffolding for our app we started using a data.json file before making the connection with the database table.
 
 
